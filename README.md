@@ -15,5 +15,7 @@ Foi utilizado o "ChatGPT" para pesquisar sobre IAs Generativas, estruturar o con
 ## 🚀 Resultados
 O E-BOOK apresenta texto e conteudo referente a AI generativa para maior entendimento sobre o assunto e uma explicação vasta de como a AI generativa fnciona e exemplificando seu beneficios.
 
+[LINK PARA O E-BOOK AQUI](https://drive.google.com/drive/folders/1TJQSNvoIfiNmykpWOLM_4RshOMQuYctp?usp=sharing)
+
 ## 💭 Reflexão (Opcional)
 Este desafio e as aulas apresentadas foram otimos para o aprendizado e a criação de um E-BOOK para contextualização de entedimento sobre o tópico estudado.
